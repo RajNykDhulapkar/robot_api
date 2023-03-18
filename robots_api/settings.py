@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'robots.apps.RobotsConfig',
     'rest_framework'
+]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
